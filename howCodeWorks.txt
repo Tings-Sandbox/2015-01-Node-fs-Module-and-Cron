@@ -1,0 +1,5 @@
+TO DO:
+- handle get requests --> serve index.html
+- handle post requests --> check if the website is in 'archives/sites/' folder --> yes ? serve the site : add it to the sites.txt 
+- have a crontab job to run a js file
+- in this js file, set to read the sites.txt and to request the websites. 
